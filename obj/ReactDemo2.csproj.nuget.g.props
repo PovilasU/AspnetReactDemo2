@@ -17,6 +17,7 @@
     <Import Project="$(NuGetPackageRoot)javascriptengineswitcher.chakracore.native.win-x64\3.7.2\build\JavaScriptEngineSwitcher.ChakraCore.Native.win-x64.props" Condition="Exists('$(NuGetPackageRoot)javascriptengineswitcher.chakracore.native.win-x64\3.7.2\build\JavaScriptEngineSwitcher.ChakraCore.Native.win-x64.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\Povilas\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.4</PkgMicrosoft_CodeAnalysis_Analyzers>
     <PkgJavaScriptEngineSwitcher_V8_Native_win-x64 Condition=" '$(PkgJavaScriptEngineSwitcher_V8_Native_win-x64)' == '' ">C:\Users\Povilas\.nuget\packages\javascriptengineswitcher.v8.native.win-x64\3.5.5</PkgJavaScriptEngineSwitcher_V8_Native_win-x64>
     <PkgJavaScriptEngineSwitcher_ChakraCore_Native_win-x64 Condition=" '$(PkgJavaScriptEngineSwitcher_ChakraCore_Native_win-x64)' == '' ">C:\Users\Povilas\.nuget\packages\javascriptengineswitcher.chakracore.native.win-x64\3.7.2</PkgJavaScriptEngineSwitcher_ChakraCore_Native_win-x64>
   </PropertyGroup>

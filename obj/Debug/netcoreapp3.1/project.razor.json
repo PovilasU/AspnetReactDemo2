@@ -14400,6 +14400,11 @@
       "FilePath": "f:\\Projects\\AspNetReactApp\\ReactDemo2\\ReactDemo2\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\Projects\\AspNetReactApp\\ReactDemo2\\ReactDemo2\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
