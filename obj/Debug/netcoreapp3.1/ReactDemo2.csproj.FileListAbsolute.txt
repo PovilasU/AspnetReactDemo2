@@ -54,7 +54,6 @@ F:\Projects\AspNetReactApp\ReactDemo2\ReactDemo2\obj\Debug\netcoreapp3.1\ReactDe
 F:\Projects\AspNetReactApp\ReactDemo2\ReactDemo2\obj\Debug\netcoreapp3.1\ReactDemo2.Views.pdb
 F:\Projects\AspNetReactApp\ReactDemo2\ReactDemo2\obj\Debug\netcoreapp3.1\ReactDemo2.dll
 F:\Projects\AspNetReactApp\ReactDemo2\ReactDemo2\obj\Debug\netcoreapp3.1\ReactDemo2.pdb
-F:\Projects\AspNetReactApp\ReactDemo2\ReactDemo2\obj\Debug\netcoreapp3.1\ReactDemo2.csprojAssemblyReference.cache
 F:\Projects\AspNetReactApp\ReactDemo2\ReactDemo2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
 F:\Projects\AspNetReactApp\ReactDemo2\ReactDemo2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
 F:\Projects\AspNetReactApp\ReactDemo2\ReactDemo2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
