@@ -127,3 +127,4 @@ F:\Projects\AspNetReactApp\ReactDemo2\ReactDemo2\bin\Debug\netcoreapp3.1\tr\Micr
 F:\Projects\AspNetReactApp\ReactDemo2\ReactDemo2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 F:\Projects\AspNetReactApp\ReactDemo2\ReactDemo2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 F:\Projects\AspNetReactApp\ReactDemo2\ReactDemo2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Projects\AspNetReactApp\ReactDemo2\ReactDemo2\obj\Debug\netcoreapp3.1\ReactDemo2.csprojAssemblyReference.cache
